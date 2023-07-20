@@ -17,7 +17,7 @@ RUN pip install scipy
 RUN pip install pytorch-msssim
 RUN pip install trimesh
 RUN pip install scikit-image
-RUN pip install sklearn
+RUN pip install scikit-learn
 RUN pip install munch
 RUN pip install tensorboard
 RUN pip install pymeshlab==2022.2
